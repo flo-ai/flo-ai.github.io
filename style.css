@@ -1,0 +1,21 @@
+body{
+	background-color: #FFFFD1;
+}
+h1,img{
+	font-family: Arial;
+	color: pink;   
+	border-style: double;
+	border-width: 5px;
+	border-color: black;
+	background-color: #6EB5FE;
+	text-align: center;
+}
+
+img{
+	width: 270px;
+	height: 500px;
+	padding: 10px;
+	margin: 15px;
+	
+	
+}
